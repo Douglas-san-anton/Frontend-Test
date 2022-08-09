@@ -1,0 +1,35 @@
+.nav-container {
+  width: 100%;
+}
+
+.nav-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  background-color: #fff159;
+}
+
+.nav-search {
+  display: flex;
+  align-items: center;
+  margin-left: 2rem;
+}
+
+.nav-search-input {
+  width: 60vw;
+  height: 2rem;
+  border: none;
+  padding-left: 1rem;
+  outline: none;
+}
+
+.nav-search-btn {
+  cursor: pointer;
+  width: 34px;
+  height: 34px;
+  background-image: url('../../assets/icon-search.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  border: none;
+}
