@@ -1,5 +1,7 @@
 # Frontend-Test
 
+Para comenzar bajar el repositorio y dentro de la capteta Frontend correr en terminal el comando "npm install", cuando termine, ejecutar el comando 'npm start' y ya podras acceder al sitio.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
